@@ -15,7 +15,7 @@ public class AssetConfig {
     /**
      * <a href="https://github.com/CFPAOrg/Minecraft-Mod-Language-Package">CFPAOrg/Minecraft-Mod-Language-Package</a>
      */
-    private static final String CFPA_ASSET_ROOT = "http://downloader1.meitangdehulu.com:22943/";
+    private static final String CFPA_ASSET_ROOT = "https://gitcode.net/chearlai/translationpackmirror/-/raw/main/files-2444-T/";
     private static final Gson GSON = new Gson();
     private static final java.lang.reflect.Type ASSET_INDEX_LIST_TYPE = new TypeToken<List<AssetIndex>>() {
     }.getType();
