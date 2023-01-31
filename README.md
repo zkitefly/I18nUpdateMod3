@@ -1,21 +1,5 @@
-# 自动汉化更新模组Ⅲ
-更现代的自动汉化更新模组。
-
-「[简体中文资源包（Minecraft Mod Language Package）](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package)」是由「[CFPAOrg](http://cfpa.team/)」团队维护的「自动汉化资源包」，可以将一些Mod中的文本翻译为中文。  
-本Mod用于自动更新「简体中文资源包」。
-
-## 下载
-- [CurseForge](https://www.curseforge.com/minecraft/mc-mods/i18nupdatemod)
-- [Modrinth](https://modrinth.com/mod/i18nupdatemod)
-
-## 支持的版本
-- Minecraft：1.6.1-1.19.4快照版都支持
-- Mod加载器：Forge、Fabric、Quilt都支持（有需求的话也可以增加LiteLoader、Rift支持）
-- Java：8-19都支持
-
-仅仅需要在mods文件夹中放置本Mod的jar文件即可，Mod本身与各主流Minecraft版本、Mod Loader、Java版本均兼容，Mod本身不需要进行任何版本隔离。
-
-## 支持的「简体中文资源包」
-为了尽可能实用，目前本Mod会根据游戏版本自动下载或转换「简体中文资源包」。
-- 官方支持：支持1.12、1.16、1.18、1.19.3
-- 自动转换：支持其它所有版本
+这个是我自己用的，你是怎么找到这来的（QWQ
+该分支是将下载源更换成 https://gitcode.net/chearlai/translationpackmirror/-/tree/main/files-2444-T
+该下载源有 1.19 的官方下载源包和 1.18 1.18-fabric 1.16 1.16-fabric 1.12.2 的[预览版](https://github.com/CFPAOrg/Minecraft-Mod-Language-Package/issues/2444)包
+就没了……
+如果你想用的话，下载仓库内的 `I18nUpdateMod-4.0.0.jar` 即可，版本支持情况和上游一致
