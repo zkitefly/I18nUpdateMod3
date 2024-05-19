@@ -2,7 +2,7 @@ name: Beta
 on:
   push:
     branches:
-      - 'main'
+      - 'NLTS'
 
 jobs:
   build-beta:
