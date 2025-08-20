@@ -1,4 +1,4 @@
-该分支是将下载源更换成 https://cp.zkitefly.eu.org/https://github.com/zkitefly/TranslationPackMirror/raw/refs/heads/main/files-2444-T/
+该分支是将下载源更换成 https://raw.githubusercontent.com/zkitefly/TranslationPackMirror/refs/heads/main/files-2444-T/
 
 该下载源有 1.20、1.20-fabric、1.19、1.18、1.18-fabric、1.16、1.16-fabric、1.12.2 的预览版包
 
