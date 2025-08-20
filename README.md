@@ -1,3 +1,15 @@
+该分支是将下载源更换成 https://cp.zkitefly.eu.org/https://github.com/zkitefly/TranslationPackMirror/raw/refs/heads/main/files-2444-T/
+
+该下载源有 1.20、1.20-fabric、1.19、1.18、1.18-fabric、1.16、1.16-fabric、1.12.2 的预览版包
+
+如果你想用的话，下载代码页的 I18nUpdateMod-3.6.2-SNAPSHOT-all.jar 即可，版本支持情况和上游一致
+
+如果用 这里 的版本出现问题，请换回 上游 版本，不要向 上游 分支提交 Issue !
+
+这个是本人手动去更新模组的，可能会很久来更新一次 （可能再也不更新）
+
+./gradlew clean shadowJar --info --stacktrace
+
 # 自动汉化更新模组Ⅲ
 
 [![Version](https://img.shields.io/github/v/release/CFPAOrg/I18nUpdateMod3?label=&logo=V&labelColor=E1F5FE&color=5D87BF&style=for-the-badge)](https://github.com/CFPAOrg/I18nUpdateMod3/tags)
